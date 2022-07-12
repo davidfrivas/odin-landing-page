@@ -11,9 +11,13 @@
     justify-content: space-between;
 }
 
+.header-logo,
+.hero-main {
+    color: #f9faf8;
+}
+
 .header-logo {
     font-size: 24px;
-    color: #f9faf8;
 }
 
 ul {
