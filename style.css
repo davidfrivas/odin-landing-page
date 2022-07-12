@@ -31,3 +31,9 @@ ul {
     font-size: 48px;
     font-weight: bolder;
 }
+
+.hero-secondary,
+.header-links {
+    font-size: 18px;
+    color: #e5e7eb;
+}
