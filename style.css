@@ -46,7 +46,8 @@ ul {
 
 .hero-secondary,
 .header-links,
-.hero-img {
+.hero-img,
+button {
     font-size: 18px;
     color: #e5e7eb;
 }
