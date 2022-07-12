@@ -27,6 +27,10 @@ ul {
     gap: 20px;
 }
 
+.hero {
+    display: flex;
+}
+
 .hero-main {
     font-size: 48px;
     font-weight: bolder;
