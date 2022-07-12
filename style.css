@@ -22,3 +22,8 @@ ul {
     margin: 0px;
     gap: 20px;
 }
+
+.hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+}
