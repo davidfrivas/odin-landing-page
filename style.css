@@ -56,3 +56,10 @@ ul {
     display: flex;
     align-items: center;
 }
+
+button {
+    background-color: #3882f6;
+    border: none;
+    border-radius: 4px;
+    padding: 4px 16px;
+}
