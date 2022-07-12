@@ -54,4 +54,5 @@ ul {
 .hero-img {
     background-color: grey;
     display: flex;
+    align-items: center;
 }
