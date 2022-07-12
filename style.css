@@ -2,6 +2,10 @@
     font-family: Arial, Verdana, sans-serif;
 }
 
+.container-1 {
+    background-color: #1F2937;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
