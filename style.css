@@ -67,3 +67,9 @@ button {
     padding: 4px 16px;
     margin-top: 16px;
 }
+
+.information-title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
