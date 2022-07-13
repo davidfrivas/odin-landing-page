@@ -82,7 +82,7 @@ button {
     gap: 50px;
 }
 
-.information-boxes div {
+.box {
     width: 150px;
     height: 150px;
     border-style: solid;
