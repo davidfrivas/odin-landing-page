@@ -73,3 +73,8 @@ button {
     font-weight: bolder;
     color: #1f2937;
 }
+
+.information-boxes div {
+    width: 200px;
+    height: 200px;
+}
