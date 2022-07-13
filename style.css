@@ -76,6 +76,7 @@ button {
 
 .information-boxes {
     display: flex;
+    justify-content: space-between;
 }
 
 .information-boxes div {
