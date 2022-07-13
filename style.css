@@ -78,6 +78,7 @@ button {
 .information-boxes {
     display: flex;
     justify-content: center;
+    gap: 50px;
 }
 
 .information-boxes div {
