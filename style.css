@@ -82,6 +82,11 @@ button {
     gap: 50px;
 }
 
+.info-group {
+    width: 150px;
+    height: auto;
+}
+
 .box {
     width: 150px;
     height: 150px;
