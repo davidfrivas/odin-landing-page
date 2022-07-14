@@ -113,6 +113,10 @@ button {
     padding: 100px 250px;
 }
 
+.quote-box {
+    display: flex;
+}
+
 .quote {
     font-size: 36px;
     font-style: italic;
