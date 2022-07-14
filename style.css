@@ -134,6 +134,7 @@ button {
 
 .action-background {
     background-color: #3882f6;
+    border-radius: 6px;
     display: flex;
     justify-content: space-between;
     flex: 1;
