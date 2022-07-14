@@ -144,6 +144,8 @@ button {
     flex: 1;
     margin: 75px 200px;
     padding: 40px 100px;
+    width: 900px;
+    height: auto;
 }
 
 .action-background button {
