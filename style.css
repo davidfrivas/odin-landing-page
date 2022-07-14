@@ -141,7 +141,6 @@ button {
     border-radius: 6px;
     display: flex;
     justify-content: space-between;
-    flex: 1;
     margin: 75px 200px;
     padding: 40px 100px;
     width: 900px;
