@@ -130,3 +130,7 @@ button {
     display: flex;
     justify-content: space-between;
 }
+
+.action-background {
+    background-color: #3882f6;
+}
