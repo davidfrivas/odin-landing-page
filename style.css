@@ -134,4 +134,5 @@ button {
 
 .action-background {
     background-color: #3882f6;
+    display: flex;
 }
