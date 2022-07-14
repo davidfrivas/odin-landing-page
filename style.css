@@ -125,3 +125,7 @@ button {
     font-size: 24px;
     align-self: flex-end;
 }
+
+.container-4 {
+    display: flex;
+}
