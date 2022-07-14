@@ -140,3 +140,7 @@ button {
     margin: 75px 200px;
     padding: 40px 100px;
 }
+
+.action-background button {
+    margin: 0px;
+}
