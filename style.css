@@ -110,4 +110,5 @@ button {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: #e5e7eb;
 }
