@@ -111,6 +111,7 @@ button {
     align-items: center;
     flex-direction: column;
     background-color: #e5e7eb;
+    padding: 100px 250px;
 }
 
 .quote {
