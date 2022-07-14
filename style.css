@@ -137,4 +137,5 @@ button {
     display: flex;
     justify-content: space-between;
     flex: 1;
+    margin: 0px 150px;
 }
